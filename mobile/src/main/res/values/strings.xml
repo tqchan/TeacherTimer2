@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TeacherTimer2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zero">00:00</string>
+    <string name="nokori">残り</string>
+    <string name="add_view">追加</string>
+    <string name="title">指導過程</string>
+    <string name="time">時間</string>
+    <string name="finish">完了</string>
+    <string name="remove_view">削除</string>
+    <string name="cdt_fin">終了</string>
+    <string name="cdt_st">開始</string>
+    <string name="iine">いいね！</string>
+    <string name="classtimesetting">授業全体の時間を設定してください</string>
+    <string name="missdialog">設定した時間が間違っています</string>
+    <string name="wanttime">時間を設定してください</string>
+    <string name="good">いいね！</string>
+    <string name="now">今は</string>
+    <string name="_time">の時間です</string>
+    <string name="few">まもなく</string>
+    <string name="few_finish">が終了です</string>
+    <string name="timeFinish">設定した過程は終了です。まもなく授業終了です。</string>
+    <string name="ele_m">45分</string>
+    <string name="jh_m">50分</string>
+    <string name="free">自分で決める</string>
+    <string name="timePlus">1分追加</string>
+</resources>
